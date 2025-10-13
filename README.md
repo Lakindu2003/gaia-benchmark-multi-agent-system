@@ -1,5 +1,6 @@
 # **A Multi-Agent System for the GAIA Benchmark**
 *by Jayawardana Wickramasinghe Pathiranage Lakindu Ransika*
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16hp8cv7jyd3tFZI05sPb_D_7gKPa7uNM?usp=sharing)
 
 #### 1.1. Background
