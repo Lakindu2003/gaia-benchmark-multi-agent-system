@@ -3,6 +3,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16hp8cv7jyd3tFZI05sPb_D_7gKPa7uNM?usp=sharing)
 
+### 1. Introduction
 #### 1.1. Background
 The recent advancement of Large Language Models (LLMs) has enabled the development of autonomous agents capable of solving various tasks. However, base LLM systems often struggle with multi-step reasoning problems that require real-time information. With the development of tool-use single-agent systems, the capabilities of LLMs have increased. Despite these advancements, they often struggle with long-horizon tasks that require multi-step reasoning. This has led to a growing interest in multi-agent systems, where many tool-use agents collaborate with each other.
 This project is an implementation of the optional open problem in COMP3361 Natural Language Processing course assignment 3<a name="cite_ref-1"></a>[<sup>[1]</sup>](#cite_note-1). Provided code templates and helper functions were used.
